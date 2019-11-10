@@ -1,0 +1,10 @@
+/Users/andreasblomqvist/Projects/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/andreasblomqvist/Projects/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/andreasblomqvist/Projects/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/andreasblomqvist/Projects/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/andreasblomqvist/Projects/Calculator/Calculator/obj/Debug/Calculator.pdb
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Calculator/Calculator/obj/Debug/Calculator.csprojAssemblyReference.cache
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/andreasblomqvist/Desktop/C# & Xamarin/Calculator/Calculator/obj/Debug/Calculator.pdb
